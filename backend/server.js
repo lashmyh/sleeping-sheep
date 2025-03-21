@@ -31,6 +31,6 @@ app.use("/api/users", userRoutes);
 
 
 
-app.listen(PORT, () => {
+app.listen(PORT, '0.0.0.0', () => {
     console.log(`Server running on port ${PORT} in ${process.env.NODE_ENV || "development"} mode`);
 });
