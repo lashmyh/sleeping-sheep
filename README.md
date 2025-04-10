@@ -6,15 +6,6 @@
 
 ![Screenshot of website](https://github.com/user-attachments/assets/7dea784b-baa2-47f0-86b0-9286b61c73c3)
 
-## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Technologies Used](#technologies-used)
-3. [Features](#features)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Deployment](#deployment)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Project Overview
 Sleeping Sheep is a dream logging platform where users can log in and anonymously share their dreams with the world. Dreams are tagged for easy filtering, and users can view and manage their own entries through a personal profile. The application supports full CRUD operations on dreams and uses modern technologies to ensure a smooth user experience and secure authentication.
